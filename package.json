@@ -1,0 +1,24 @@
+{
+  "name": "banking-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markuptitan/banking-mock.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Siyabonga Samson Lukhele",
+    "email": "samsonlukhele76@gmail.com",
+    "website": "https://samsonlukhele.me"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markuptitan/banking-mock/issues"
+  },
+  "homepage": "https://github.com/markuptitan/banking-mock#readme",
+  "description": "This is a mock banking API that simulates banking operations such as account creation, balance checking, and transaction history retrieval. It is designed for testing and development purposes."
+}
