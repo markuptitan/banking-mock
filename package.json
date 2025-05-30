@@ -22,6 +22,7 @@
   "homepage": "https://github.com/markuptitan/banking-mock#readme",
   "description": "This is a mock banking API that simulates banking operations such as account creation, balance checking, and transaction history retrieval. It is designed for testing and development purposes.",
   "dependencies": {
+    "assert": "^2.1.0",
     "decimal.js": "^10.5.0",
     "express": "^5.1.0"
   },
